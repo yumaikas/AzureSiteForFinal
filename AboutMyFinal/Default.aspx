@@ -17,7 +17,7 @@
     ContentPlaceHolderID="MainContent">
     <h3>Final Project</h3>
     <p>
-        This is about the COP 2362 final project, combines most of the 
+        This is about the COP 2362 final project, which combines most of the 
         assignments from the 2014 spring semester and rolls them up into a 
         single program. 
     </p>
