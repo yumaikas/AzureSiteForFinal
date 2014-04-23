@@ -17,18 +17,23 @@
     ContentPlaceHolderID="MainContent">
     <h3>Final Project</h3>
     <p>
-        This is about the COP 2362 final project. It combines most of the 
+        This is about the COP 2362 final project, combines most of the 
         assignments from the 2014 spring semester and rolls them up into a 
         single program. 
     </p>
     <p>
         Soon to come will be PDF screenshots of the programs and/or exercises 
-        that weren't included in the main program. These are provided for extra
-        documentation the 
+        that weren't included in the main program. These will be provided for 
+        extra documentation the 
    <a href="https://sites.google.com/site/profvanselow/lms/cop-2362/exercises">
        exercises
+   </a>
+        that didn't produce applications with 
+        visible user interfaces (such as services).
+    </p>
+    <p>
+        This website also serves as a running Azure deployment, which 
+        demonstrates a small mastering of web deployment.
 
-   </a>that didn't produce applications with 
-        visible user interfaces.
     </p>
 </asp:Content>
