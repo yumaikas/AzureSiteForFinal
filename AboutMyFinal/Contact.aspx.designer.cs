@@ -7,9 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AboutMyFinal
-{
-    public partial class Contact
-    {
-    }
+
+
+public partial class Contact {
 }

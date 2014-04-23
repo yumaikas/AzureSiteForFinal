@@ -7,11 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AboutMyFinal
-{
 
 
-    public partial class _Default
-    {
-    }
+public partial class _Default {
 }

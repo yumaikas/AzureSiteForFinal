@@ -8,9 +8,10 @@
 
     <article>
         <p>        
-           This website is part of my assignment for the Edison COP 2362 final.
-           It contains various sets of screenshots documenting things like 
-            services, LINQ practice runs, and other things. 
+            This is the tiny ASP.NET website, 
+            which describes a few things that can be done with ASP.Net
+            It's not yet impressive, more of a kid sister of demos than a 
+            Mother of ASP.NET demos. (Nothing against kid sisters)
         </p>
     </article>
     <aside>
@@ -18,9 +19,9 @@
             <i>Written by Andrew Owen for COP 2362 in spring 2014.</i>
         </p>
         <ul>
-            <li><a id="A1" runat="server" href="~/">Home</a></li>
-            <li><a id="A2" runat="server" href="~/About">About</a></li>
-            <li><a id="A3" runat="server" href="~/Contact">Contact</a></li>
+            <li><a runat="server" href="~/">Home</a></li>
+            <li><a runat="server" href="~/About">About</a></li>
+            <li><a runat="server" href="~/Contact">Contact</a></li>
         </ul>
     </aside>
 </asp:Content>
