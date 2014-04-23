@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ViewSwitcher.ascx.cs" Inherits="ViewSwitcher" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" Inherits="ViewSwitcher" Codebehind="ViewSwitcher.ascx.cs" %>
 <div id="viewSwitcher">
     <%: CurrentView %> view | <a href="<%: SwitchUrl %>">Switch to <%: AlternateView %></a>
 </div>

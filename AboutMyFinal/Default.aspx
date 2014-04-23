@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Mini-Meta ASP.Net" Language="C#" MasterPageFile="~/Site.Master"
-     AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+     AutoEventWireup="true" Inherits="_Default" Codebehind="Default.aspx.cs" %>
 
 <asp:Content runat="server" 
     ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">

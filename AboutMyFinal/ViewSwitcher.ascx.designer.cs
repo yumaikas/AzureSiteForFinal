@@ -7,9 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AboutMyFinal {
-    
-    
-    public partial class ViewSwitcher {
-    }
+
+
+public partial class ViewSwitcher {
 }
