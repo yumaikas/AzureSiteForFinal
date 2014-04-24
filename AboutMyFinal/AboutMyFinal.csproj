@@ -224,6 +224,12 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
+    <Content Include="Downloads\LINQSample.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Downloads\LinqToNorthwindCmd.zip" />
+    <Content Include="Downloads\Services.pdf" />
+    <Content Include="Downloads\WalkThroughService.zip" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
